@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+.styl{
+    display: flex;
+    justify-content: center;
+}
+.n1, .n2, .n3{
+    width: 30px;
+    height: 120px;
+    background-color: lightgreen;
+    border-radius: 10px;
+}
+.n2{
+    transform: rotate(90deg);
+    position: relative;
+    bottom: 50px;
+}
+.jorik{
+    margin-top: 400px;
+}
